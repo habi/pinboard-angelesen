@@ -1,7 +1,8 @@
 {
     "name": "bastianwidmer/pinboard-angelesen",
     "require": {
-        "simplepie/simplepie": "dev-master"
+        "simplepie/simplepie": "dev-master",
+        "mf2/mf2": "^0.4.6"
     },
     "authors": [
         {
