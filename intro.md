@@ -1,7 +1,7 @@
 ---
-title: Recommended Readings vom MONAT 2022
+title: Recommended Readings vom MONAT 2023
 date: 2022-XX-01T19:00:00.000+00:00
-slug: recommended-readings-MONAT-2022
+slug: recommended-readings-MONAT-2023
 categories:
 - recommended readings
 tags:
